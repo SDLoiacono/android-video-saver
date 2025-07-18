@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  build:
+    build: .
+    volumes:
+      - .:/project
+      - gradle-cache:/root/.gradle
+    working_dir: /project
+
+volumes:
+  gradle-cache:
