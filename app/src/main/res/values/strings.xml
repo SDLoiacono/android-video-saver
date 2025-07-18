@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="video_saved">Video guardado en Downloads/MyApp/</string>
+    <string name="error_no_video">No se recibió ningún video</string>
+    <string name="error_permission_denied">Permiso denegado. No se puede guardar el video.</string>
+    <string name="error_save_failed">Error al guardar el video</string>
+    <string name="app_description">Guarda videos compartidos localmente</string>
+</resources>
